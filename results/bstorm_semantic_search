@@ -1,0 +1,60 @@
+how to build an effective semantic search algorithm?
+
+- Honestly, I would start with a tf-idf type thing.
+  - I think that would beat out a lot of other methods.
+  - You can combine tf-idf with a "nearest neighbors" query
+    in a word embedding space.
+
+
+=====
+
+refresh: what is tf-idf:
+
+good link: https://www.capitalone.com/tech/machine-learning/understanding-tf-idf/
+
+- tf: how frequently does the term appear in one document?
+- idf: how many documents in the corpus have at least one occurrence of the word?
+
+======
+
+Initial model:
+  > you can improve on it later!!!
+  - start by building a very simple tf-idf based search engine,
+    which takes your given term, finds a bunch of related terms, and
+    then does a tf-idf based search that returns the most important results.
+
+
+  ~ maybe you could save time by having each document be a bag of words or
+  something? Or build out an index of words present in each document?
+
+  ~ also, you could think about how to rank the documents. There is obviously the score from the tf-idf rank, but then there is also the document importance score.
+
+=====
+
+
+Thoughts after finishing baseline and first prototype:
+
+Q: what would be a good scoring function for a search engine?
+	a1: maybe add +1 for every relevant result in the top 10
+	a2: add +2 if there are no incorrect results ahead of it?
+
+~~~~~~~~~~~~~
+
+Maybe use exponential decay or linear decay?
+
+Result # 1: 1 point.
+Result # 2: 0.9
+Result # 3: 0.8
+Etc...
+
+Divide sum by max possible sum (5.5)
+
+I don't know where this number comes from?
+
+What would intuitively make sense to a human?
+
+== just tell them how many relevant results showed up in the top 10. That would make sense.
+
+
+
+

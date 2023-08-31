@@ -1,0 +1,86 @@
+Search terms for evaluation:
+
+(rare / specific terms)
+
+package managers
+sensors
+gamma rays
+motorcycle helmet
+virtual ticket
+polysaccharide synthesis
+inspection system
+semiautomatic rifles
+power steering
+vapor deposition process
+mitochondrial dysfunction
+web browser session
+web browser
+light dimmer
+nuclear fuel
+solid state memory
+computer memory
+T cells
+cardiac pacing therapy
+sewing
+electronics plug receptacle
+airtight sealing
+food packaging
+software multi threading
+inflammatory disorders
+lithium ion batteries
+motion capture
+fluid dynamics
+geology
+gastrointestinal bypass
+smart phones
+smart phone display
+data analysis
+data point clustering
+welding
+hearing aid
+automobile braking
+cancer tumor detection
+computer network authentication
+computer image segmentation
+telehealth software
+infant care
+diaper bag
+microbes
+microbial phenotypes
+PET imaging
+RFID antenna
+diabetes treatment
+
+(general terms)
+
+Electronics
+Electrical engineering
+integrated circuits
+Chemistry
+Semiconductors
+software engineering
+computer science
+computer hardware
+computer virtualization
+computer networking
+pharmaceutical compounds
+pharmaceutical devices
+surgery
+medicine
+medical devices
+biology
+polymer synthesis
+automobile design
+video games
+manufacturing
+manufacturing quality assurance
+manufacturing inspection system
+recreation device
+guns
+web development
+energy generation
+machine learning
+mechanical engineering
+materials science
+nanotechnology
+nanostructures
