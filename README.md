@@ -88,11 +88,11 @@ Notes:
 
 * Semantic search
 
-![image](/Users/sidharth/Documents/ml/sideprojects/patent_semantic_search/imgs/vaping_ss1.png)
+![image](vaping_ss1.png)
 
 * Baseline
 
-![image](/Users/sidharth/Documents/ml/sideprojects/patent_semantic_search/imgs/vaping_baseline.png)
+![image](vaping_baseline.png)
 
 As we can see, the semantic search method surfaced more relevant results, and scored them higher than noisy results.
 
@@ -102,11 +102,11 @@ As we can see, the semantic search method surfaced more relevant results, and sc
 
 * Semantic search:
 
-![image](/Users/sidharth/Documents/ml/sideprojects/patent_semantic_search/imgs/semiautomatic_rifle_ss1.png)
+![image](semiautomatic_rifle_ss1.png)
 
 * Baseline:
 
-![image](/Users/sidharth/Documents/ml/sideprojects/patent_semantic_search/imgs/semiautomatic_rifle_baseline.png)
+![image](semiautomatic_rifle_baseline.png)
 
 While both methods scored few exact hits, the semantic search method brought in more "somewhat relevant" results as well.
 
@@ -116,10 +116,10 @@ While both methods scored few exact hits, the semantic search method brought in 
 
 * Semantic Search:
 
-![image](/Users/sidharth/Documents/ml/sideprojects/patent_semantic_search/imgs/web_browser_ss1.png)
+![image](web_browser_ss1.png)
 
 * Baseline:
 
-![image](/Users/sidharth/Documents/ml/sideprojects/patent_semantic_search/imgs/web_browser_baseline.png)
+![image](web_browser_baseline.png)
 
 This was a much "easier" query as there were far more relevant results. Still, semantic search has a notable improvement over the baseline.
